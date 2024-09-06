@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Desktop/Lead-08/Fraud-Project/mlruns/375910689816358335/7848a62b130b45ca84b040d7d9f75958/artifacts
+end_time: 1724362055058
+entry_point_name: ''
+experiment_id: '375910689816358335'
+lifecycle_stage: active
+run_id: 7848a62b130b45ca84b040d7d9f75958
+run_name: bemused-vole-641
+run_uuid: 7848a62b130b45ca84b040d7d9f75958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724362047647
+status: 4
+tags: []
+user_id: unknown

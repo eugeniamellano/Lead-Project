@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Desktop/Lead-08/Fraud-Project/mlruns/375910689816358335/d8bbdbb713ad4967beeeabee3d511f03/artifacts
+end_time: 1724449622139
+entry_point_name: ''
+experiment_id: '375910689816358335'
+lifecycle_stage: active
+run_id: d8bbdbb713ad4967beeeabee3d511f03
+run_name: gregarious-dove-537
+run_uuid: d8bbdbb713ad4967beeeabee3d511f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724449613369
+status: 3
+tags: []
+user_id: root

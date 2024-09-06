@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Desktop/Lead-08/Fraud-Project/mlruns/375910689816358335/86e55f5c261d4d2e9229ccae37775c16/artifacts
+end_time: 1724362685254
+entry_point_name: ''
+experiment_id: '375910689816358335'
+lifecycle_stage: active
+run_id: 86e55f5c261d4d2e9229ccae37775c16
+run_name: capable-sloth-837
+run_uuid: 86e55f5c261d4d2e9229ccae37775c16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724362675737
+status: 4
+tags: []
+user_id: unknown

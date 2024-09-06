@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Desktop/Lead-08/Fraud-Project/mlruns/375910689816358335/f78e7fcee9d04e34bf3a1ee54406ffae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '375910689816358335'
+lifecycle_stage: active
+run_id: f78e7fcee9d04e34bf3a1ee54406ffae
+run_name: inquisitive-asp-931
+run_uuid: f78e7fcee9d04e34bf3a1ee54406ffae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724440981596
+status: 1
+tags: []
+user_id: unknown

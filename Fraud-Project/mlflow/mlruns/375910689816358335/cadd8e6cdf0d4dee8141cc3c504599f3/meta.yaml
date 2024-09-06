@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Desktop/Lead-08/Fraud-Project/mlruns/375910689816358335/cadd8e6cdf0d4dee8141cc3c504599f3/artifacts
+end_time: 1724510003832
+entry_point_name: ''
+experiment_id: '375910689816358335'
+lifecycle_stage: active
+run_id: cadd8e6cdf0d4dee8141cc3c504599f3
+run_name: skittish-bat-129
+run_uuid: cadd8e6cdf0d4dee8141cc3c504599f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724509995856
+status: 3
+tags: []
+user_id: root

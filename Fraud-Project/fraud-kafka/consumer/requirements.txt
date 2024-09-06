@@ -1,0 +1,16 @@
+boto3
+pandas 
+gunicorn
+scikit-learn 
+matplotlib
+numpy==1.26.4
+scikit-learn==1.5.1
+scipy==1.14.1
+psutil==6.0.0
+mlflow
+geopy
+confluent-kafka
+requests
+certifi
+confluent-kafka[avro,json,protobuf]>=1.4.2
+seaborn

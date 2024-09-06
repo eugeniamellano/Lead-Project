@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Desktop/Lead-08/Fraud-Project/mlruns/375910689816358335/84a1715b280642829854dc6d2d44afd5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '375910689816358335'
+lifecycle_stage: active
+run_id: 84a1715b280642829854dc6d2d44afd5
+run_name: funny-lamb-679
+run_uuid: 84a1715b280642829854dc6d2d44afd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724427926911
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Desktop/Lead-08/Fraud-Project/mlruns/375910689816358335/56485041334740e6af9e5e452275a138/artifacts
+end_time: 1724505701215
+entry_point_name: ''
+experiment_id: '375910689816358335'
+lifecycle_stage: active
+run_id: 56485041334740e6af9e5e452275a138
+run_name: rumbling-kite-773
+run_uuid: 56485041334740e6af9e5e452275a138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724505692210
+status: 3
+tags: []
+user_id: root

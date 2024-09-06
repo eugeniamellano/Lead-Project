@@ -1,0 +1,2 @@
+[('cat', Pipeline(steps=[('encoder',
+                 OneHotEncoder(drop='first', handle_unknown='ignore'))]), ['category', 'gender', 'state', 'city', 'city_pop', 'hour', 'month', 'day'])]

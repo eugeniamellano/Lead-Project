@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Desktop/Lead-08/Fraud-Project/mlruns/375910689816358335/c8627f4c8eef457eb2bf77e5c5b65937/artifacts
+end_time: 1724510358255
+entry_point_name: ''
+experiment_id: '375910689816358335'
+lifecycle_stage: active
+run_id: c8627f4c8eef457eb2bf77e5c5b65937
+run_name: adventurous-wolf-28
+run_uuid: c8627f4c8eef457eb2bf77e5c5b65937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724510349098
+status: 3
+tags: []
+user_id: root

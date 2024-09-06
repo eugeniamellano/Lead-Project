@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Desktop/Lead-08/Fraud-Project/mlruns/375910689816358335/5a81b763d1014f1eac3a94d102b11cee/artifacts
+end_time: 1724508475476
+entry_point_name: ''
+experiment_id: '375910689816358335'
+lifecycle_stage: active
+run_id: 5a81b763d1014f1eac3a94d102b11cee
+run_name: wistful-slug-703
+run_uuid: 5a81b763d1014f1eac3a94d102b11cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724508456878
+status: 3
+tags: []
+user_id: root

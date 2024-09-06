@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Desktop/Lead-08/Fraud-Project/mlruns/375910689816358335/7808e14eb4624fedb61e19be97918f29/artifacts
+end_time: 1724510315074
+entry_point_name: ''
+experiment_id: '375910689816358335'
+lifecycle_stage: active
+run_id: 7808e14eb4624fedb61e19be97918f29
+run_name: colorful-bear-1
+run_uuid: 7808e14eb4624fedb61e19be97918f29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724510303560
+status: 3
+tags: []
+user_id: root

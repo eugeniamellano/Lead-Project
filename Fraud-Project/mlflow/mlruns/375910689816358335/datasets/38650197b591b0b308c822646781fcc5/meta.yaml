@@ -1,0 +1,12 @@
+digest: fa182def
+name: dataset
+profile: '{"num_rows": 389003, "num_elements": 3112024}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "category", "required": true},
+  {"type": "string", "name": "gender", "required": true}, {"type": "string", "name":
+  "state", "required": true}, {"type": "string", "name": "city", "required": true},
+  {"type": "long", "name": "city_pop", "required": true}, {"type": "integer", "name":
+  "hour", "required": true}, {"type": "integer", "name": "month", "required": true},
+  {"type": "integer", "name": "day", "required": true}]}'
+source: '{"tags": {"mlflow.user": "root", "mlflow.source.name": "/home/app/train_fraud_mlf.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Asus/Desktop/Lead-08/Fraud-Project/mlruns/0 # point to your directory (do not remove 'file://')
+creation_time: 1675252800000  # it is a timestamp showing creation time (use https://www.epochconverter.com/ to covert datetime to timestamps)
+experiment_id: '0'  # FOLDER NAME
+last_update_time: 1675252801000  # last updated one second after creation (use https://www.epochconverter.com/ to covert datetime to timestamps)
+lifecycle_stage: active
+name: Default  # this will be shown on MLflow dashboard under 'Experiment'

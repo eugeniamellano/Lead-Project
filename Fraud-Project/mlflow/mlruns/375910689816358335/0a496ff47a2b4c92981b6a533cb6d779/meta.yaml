@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Desktop/Lead-08/Fraud-Project/mlruns/375910689816358335/0a496ff47a2b4c92981b6a533cb6d779/artifacts
+end_time: 1724513221197
+entry_point_name: ''
+experiment_id: '375910689816358335'
+lifecycle_stage: active
+name: ''
+run_id: 0a496ff47a2b4c92981b6a533cb6d779
+run_uuid: 0a496ff47a2b4c92981b6a533cb6d779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724513180964
+status: 3
+tags: []
+user_id: root

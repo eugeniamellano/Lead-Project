@@ -1,0 +1,4 @@
+ColumnTransformer(transformers=[('cat',
+                                 Pipeline(steps=[('encoder',
+                                                  OneHotEncoder(drop='first',
+                                                                hand...

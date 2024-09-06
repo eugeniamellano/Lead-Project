@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Asus/Desktop/Lead-08/Fraud-Project/mlruns/375910689816358335/091c0508bd7e4fb6880b296207dcc94c/artifacts
+end_time: 1724509970267
+entry_point_name: ''
+experiment_id: '375910689816358335'
+lifecycle_stage: active
+run_id: 091c0508bd7e4fb6880b296207dcc94c
+run_name: dazzling-perch-849
+run_uuid: 091c0508bd7e4fb6880b296207dcc94c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724509957993
+status: 3
+tags: []
+user_id: root
