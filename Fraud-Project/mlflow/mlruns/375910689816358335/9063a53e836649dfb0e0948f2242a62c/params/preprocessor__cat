@@ -1,2 +1,0 @@
-Pipeline(steps=[('encoder',
-                 OneHotEncoder(drop='first', handle_unknown='ignore'))])
