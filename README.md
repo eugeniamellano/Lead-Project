@@ -34,6 +34,7 @@ In addition to the fraud detection system, I have created a Streamlit dashboard 
 - Graphical representations of fraud distribution, amount distribution, and category distribution by fraud status.
 
 The dashboard was built using various tools such as Pandas, Plotly, and Lottie animations.
+Link : **[Dashboard](https://dashboard.heroku.com/apps/streamlit-fraud)**
 
 ---
 Created by Eugenia M.
